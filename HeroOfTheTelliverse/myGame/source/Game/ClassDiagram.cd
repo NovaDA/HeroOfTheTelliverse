@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Library::Mesh">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEgAEEGgIgIAAQACIAQAECADCAAgEQggAABAABA=</HashCode>
+      <FileName>d:\GitHub\HeroOfTheTelliverse\6CCGD001WGameGroupProject\myGame\source\Library\Mesh.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library::FirstPersonCamera">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAQACFAACAAABQAAQAEABABQAAIABACAAAAiABAAAAA=</HashCode>
+      <FileName>d:\GitHub\HeroOfTheTelliverse\6CCGD001WGameGroupProject\myGame\source\Library\FirstPersonCamera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library::Keyboard">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAxAAAYIACIAAUACAAAAACQAAAAQAAAAAAAAYAAAAAA=</HashCode>
+      <FileName>d:\GitHub\HeroOfTheTelliverse\6CCGD001WGameGroupProject\myGame\source\Library\Keyboard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library::Mouse">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQRAIAAIAAABCUAAwAAgACAAAEAAAAAUEBCAIAAAYAA=</HashCode>
+      <FileName>d:\GitHub\HeroOfTheTelliverse\6CCGD001WGameGroupProject\myGame\source\Library\Mouse.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rendering::ModelFromFile">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Typedef Name="Rendering::ModelFromFile::TextureMappingVertex" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ModelFromFile.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Struct Name="Rendering::ModelFromFile::_TextureMappingVertex" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ModelFromFile.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACQAAAQCAAAAAwAAAAAAEgAACAAABgIIASAgECAAADg=</HashCode>
+      <FileName>ModelFromFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rendering::TriangleDemo">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Typedef Name="Rendering::TriangleDemo::BasicEffectVertex" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TriangleDemo.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Struct Name="Rendering::TriangleDemo::_BasicEffectVertex" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TriangleDemo.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACQAACACAAAAAwAAAAAAAgBACAAAAAIIACAgEAAAAAg=</HashCode>
+      <FileName>TriangleDemo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rendering::RenderingGame">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwIAEAAAAAgJ0AAAAAAAQAACAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>RenderingGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library::DrawableGameComponent" Collapsed="true">
+    <Position X="14.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAIAgAAAAACIAAAAAAAAAQIAAAkAAAAAAA=</HashCode>
+      <FileName>d:\GitHub\HeroOfTheTelliverse\6CCGD001WGameGroupProject\myGame\source\Library\DrawableGameComponent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library::Game" Collapsed="true">
+    <Position X="14.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>koSAIgBACkAFQ4AOAggBkSAEAAjnICABYhCgSAAAgAI=</HashCode>
+      <FileName>d:\GitHub\HeroOfTheTelliverse\6CCGD001WGameGroupProject\myGame\source\Library\Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library::GameComponent" Collapsed="true">
+    <Position X="17.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQACAAFAAAAAYABAAAAAAAAAAAAAAAAAAAgAAAAAIA=</HashCode>
+      <FileName>d:\GitHub\HeroOfTheTelliverse\6CCGD001WGameGroupProject\myGame\source\Library\GameComponent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library::Camera" Collapsed="true">
+    <Position X="20" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGRCAAAAFACIBQIgQyAAQQAAEKMEAgACAgSgAQgAAwI=</HashCode>
+      <FileName>d:\GitHub\HeroOfTheTelliverse\6CCGD001WGameGroupProject\myGame\source\Library\Camera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
